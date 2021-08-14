@@ -1,0 +1,32 @@
+body{
+    margin: 20px;
+    text-align: center;
+    background-color: whitesmoke;
+    background-position:left top;
+    background-position-x: left;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    border-style: solid;
+}
+nav{
+   background-color: rgba(244,200, 100, 0.5);
+}
+nav,a{
+    align-content;
+}
+
+header{
+    margin: 20px;
+    border-style:inset;
+    border-color: yellowgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: 2em sans-serif;
+}
+#about{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:200%;
+    text-align: start;
+    text-rendering:geometricPrecision;
+    
+}
