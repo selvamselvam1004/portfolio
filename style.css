@@ -13,7 +13,7 @@ nav{
    background-color: rgba(244,200, 100, 0.5);
 }
 nav,a{
-    align-content;
+    appearance:inherit;
 }
 
 header{
