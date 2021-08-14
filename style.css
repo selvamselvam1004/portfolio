@@ -12,9 +12,14 @@ body{
 nav{
    background-color: rgba(244,200, 100, 0.5);
 }
-nav,a{
-    appearance:inherit;
+a.navi{
+  border: 2px solid green;
+  border-spacing: 3rem;
+  padding: 20px 30px;
+
 }
+
+
 
 header{
     margin: 20px;
